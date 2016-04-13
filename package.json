@@ -1,0 +1,32 @@
+{
+  "name": "anagram_npm_test",
+  "version": "1.0.1",
+  "description": "checks if two strings are anagrams of each other",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monotkate/anagram.git"
+  },
+  "keywords": [
+    "node",
+    "anagram"
+  ],
+  "author": "Miranda Van Minnen",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/monotkate/anagram/issues"
+  },
+  "homepage": "https://github.com/monotkate/anagram#readme",
+  "dependencies": {
+    "lodash": "^4.10.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.0.6",
+    "gulp-util": "^3.0.7",
+    "nodemon": "^1.9.1"
+  }
+}
